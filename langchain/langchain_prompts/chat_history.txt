@@ -1,0 +1,2 @@
+HumanMessage(content='explain in simple terms what is diabetes')
+AIMessage(content="Diabetes is a condition where your body has trouble controlling the amount of sugar in your blood. Normally, a hormone called insulin helps move sugar from the food you eat into your cells for energy. With diabetes, either your body doesn’t make enough insulin or it doesn’t use it properly, so sugar builds up in the blood instead of being used by the cells.")
